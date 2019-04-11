@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="order_events_array">
+        <item>"عرض تفاصيل الطلب"</item>
+        <item>" الاتجاه"</item>
+        <item>"انهاء الطلب"</item>
+    </string-array>
+</resources>

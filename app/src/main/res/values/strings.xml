@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Talabat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="PhoneNo">رقم الهاتف</string>
+    <string name="Pass">كلمة السر</string>
+    <string name="Toast_Enter_Phoneno">الرجاء ادخال رقم الهاتف</string>
+    <string name="Toast_Enter_pass">الرجاء ادخال كلمة السر</string>
+    <string name="Toast_No_Internet">لا يوجد اتصال بالشبكة</string>
+    <string name="Toast_Register">تسجيل مستخدم جديد</string>
+    <string name="Extra_ResId">RestId</string>
+    <string name="Extra_ResLocation">RestLocation</string>
+    <string name="title_activity_rest_maps">Map</string>
+    <string name="Extra_ResName">RestName</string>
+    <string name="Extra_OrderId">OrderId</string>
+    <string name="Label_ProductName">اسم المنتج</string>
+    <string name="Label_ProductPrice">سعر المنتج</string>
+    <string name="Label_ProductQuantity">الكمية</string>
+    <string name="Label_ProductPric">السعر</string>
+    <string name="Label_login">تسجيل الدخول</string>
+</resources>
